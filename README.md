@@ -1,0 +1,2 @@
+# XML_Filter_Engine
+Here i created Application that has the capabilities to read XML, looking for attributes tags, and after click on "load button" - a filtered Table will appear according to Filter set we defined in the code. this project is part of my role in INTEL corporation. the engine is working properly , if you want to use it you should change the reffernce to the tags tree you have in your XML and change the filter set as well. also i added button to export to excel the filtered table.
