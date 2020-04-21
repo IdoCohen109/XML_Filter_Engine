@@ -1,0 +1,56 @@
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h1 {
+    color: blue;
+    text-decoration: underline;
+}
+
+h5 {
+    color: blue;
+    text-decoration: underline;
+}
+
+div>input {
+    border-radius: 10%;
+    border: 1px black solid;
+}
+
+#exportButton,
+#inputPathValue {
+    border-radius: 10%;
+    background-color: rgba(30, 121, 30, 0.829);
+    color: yellow;
+}
+
+#product_type {
+    margin-bottom: 15px;
+    border: 2px #6B6 solid;
+    color: rgb(56, 56, 3);
+    margin-left: 10px;
+}
+
+#pathInput {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#selectionSection {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#load-button {
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
